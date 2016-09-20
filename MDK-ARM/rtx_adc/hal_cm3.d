@@ -1,0 +1,9 @@
+rtx_adc\hal_cm3.o: ..\RTX\portable\HAL_CM3.c
+rtx_adc\hal_cm3.o: ../RTX\inc/rt_TypeDef.h
+rtx_adc\hal_cm3.o: ../RTX\inc/RTX_Config.h
+rtx_adc\hal_cm3.o: ../RTX\inc/rt_System.h
+rtx_adc\hal_cm3.o: ..\RTX\portable\rt_HAL_CM.h
+rtx_adc\hal_cm3.o: ../RTX\inc/rt_Task.h
+rtx_adc\hal_cm3.o: ../RTX\inc/rt_List.h
+rtx_adc\hal_cm3.o: ../RTX\inc/rt_MemBox.h
+rtx_adc\hal_cm3.o: ../Inc/stm32f1xx_it.h

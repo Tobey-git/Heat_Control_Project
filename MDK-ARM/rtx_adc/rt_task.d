@@ -1,0 +1,9 @@
+rtx_adc\rt_task.o: ..\RTX\src\rt_Task.c
+rtx_adc\rt_task.o: ../RTX\inc/rt_TypeDef.h
+rtx_adc\rt_task.o: ../RTX\inc/RTX_Config.h
+rtx_adc\rt_task.o: ../RTX\inc/rt_System.h
+rtx_adc\rt_task.o: ../RTX\inc/rt_Task.h
+rtx_adc\rt_task.o: ../RTX\inc/rt_List.h
+rtx_adc\rt_task.o: ../RTX\inc/rt_MemBox.h
+rtx_adc\rt_task.o: ../RTX\inc/rt_Robin.h
+rtx_adc\rt_task.o: ../RTX\portable/rt_HAL_CM.h
